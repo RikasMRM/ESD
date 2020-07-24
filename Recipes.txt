@@ -5,4 +5,7 @@ pasta
 noodles
 Chiken fry
 
+Beans
+Pizza
+
 Thnaks
